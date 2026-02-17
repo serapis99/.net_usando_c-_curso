@@ -1,0 +1,14 @@
+C:\dev\net\.net_usando_c-_curso\01_base_consola\bin\Debug\net10.0\01_base_consola.exe
+C:\dev\net\.net_usando_c-_curso\01_base_consola\bin\Debug\net10.0\01_base_consola.deps.json
+C:\dev\net\.net_usando_c-_curso\01_base_consola\bin\Debug\net10.0\01_base_consola.runtimeconfig.json
+C:\dev\net\.net_usando_c-_curso\01_base_consola\bin\Debug\net10.0\01_base_consola.dll
+C:\dev\net\.net_usando_c-_curso\01_base_consola\bin\Debug\net10.0\01_base_consola.pdb
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\01_base_consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\01_base_consola.AssemblyInfoInputs.cache
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\01_base_consola.AssemblyInfo.cs
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\01_base_consola.csproj.CoreCompileInputs.cache
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\01_base_consola.dll
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\refint\01_base_consola.dll
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\01_base_consola.pdb
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\01_base_consola.genruntimeconfig.cache
+C:\dev\net\.net_usando_c-_curso\01_base_consola\obj\Debug\net10.0\ref\01_base_consola.dll
