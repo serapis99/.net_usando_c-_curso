@@ -136,14 +136,3 @@ A medida que un proyecto crece, el namespace deja de ser opcional y se convierte
 🔹 Evita conflictos de nombres.
 🔹 Funciona como una carpeta lógica para el código.
 🔹 Se importa con `using`.
-
----
-
-Si quieres, podemos hacer ahora:
-
-🧭 Guía sobre clases en C#
-🧭 Qué es una assembly
-🧭 Qué es el CLR
-🧭 Cómo funciona el using en profundidad
-
-¿Con cuál seguimos? 💻🔥
