@@ -26,4 +26,31 @@
 
 ## Metodos
 
++ [definicion](04_metodos/01_definicion.md)
++ [sobrecarga de metodos](04_metodos/02_sobrecarga.md)
++ [parametros opcionales](04_metodos/03_parametros_opcionales.md)
++ [trucos y buena practica](04_metodos/00_trucos.md)
 
+## Estrucuras de control de flujo
+
+### Conodicionales:
+
++ [estructura if](05_condicionales/01_estructura_if.md)
++ [errores comunes al usar if](05_condicionales/02_errores_comunes.md)
++ [estructura switch](05_condicionales/03_estructura_switch.md)
++ [errores comunes switch](05_condicionales/05_errores_comunes_con_switch.md)
++ [estructura switch moderna](05_condicionales/04_estructura_switch_moderna.md)
++ [errores comunes switch moderno](05_condicionales/06_errores_comunes_con_switch_moderno.md)
+
+### bucles
+
++ [bucles](06_bucles/01_que%20son%20los%20bucles.md)
+
+### Excepciones
+
++ [excepciones](07_excepciones/01_que_son_excepciones.md)
++ [Filtrado de Excepciones y Control de Desbordamiento en C#](07_excepciones/02_filtrar_excepciones.md)
++ [Lanzamiento y Relanzamiento de Excepciones en C#](07_excepciones/03_lanzar_excepciones.md)
++ [uso de finally](07_excepciones/04_uso_de_finally.md)
+
+### Programacion Orientada a Objetos (POO)
